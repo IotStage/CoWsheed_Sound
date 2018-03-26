@@ -1,0 +1,99 @@
+create database lora;
+CREATE TABLE envoi (id INT(10) AUTO_INCREMENT PRIMARY KEY,nom VARCHAR(30),numero VARCHAR(30),message VARCHAR(30));
+insert into envoi (nom,numero,message) values("robert","1","hello");
+CREATE TABLE reception (id INT(10) AUTO_INCREMENT PRIMARY KEY,nom VARCHAR(30),numero VARCHAR(30),message VARCHAR(30));
+insert into reception (nom,numero,message) values("lena","100","coucou");
+ CREATE TABLE LatLong (id INT(10) AUTO_INCREMENT PRIMARY KEY,lat VARCHAR(30),lon VARCHAR(30),numero VARCHAR(30),date VARCHAR(30));
+ insert into LatLong (lat,lon,numero,date) values("","","","");
+GRANT ALL PRIVILEGES ON *.* TO 'root@localhost' IDENTIFIED BY 'root';
+
+CREATE TABLE bedmonitor (id INT(10) AUTO_INCREMENT PRIMARY KEY,nom_hopital VARCHAR(30),nom_service VARCHAR(30),num_salle VARCHAR(30),nbr_place VARCHAR(30));
+
+
+CREATE TABLE blocmonitor (id INT(10) AUTO_INCREMENT PRIMARY KEY,nom_hopital VARCHAR(30),nom_service VARCHAR(30),num_bloc VARCHAR(30),etat_bloc VARCHAR(30));
+
+insert into bedmonitor (nom_hopital,nom_service,num_salle,nbr_place) values("dantec","1","hello");
+
+CREATE TABLE `data` (
+  `id` int(100) AUTO_INCREMENT PRIMARY KEY,
+  `latitude` varchar(100) NOT NULL,
+  `longitude` varchar(100) NOT NULL,
+  `rssi` longtext NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+CREATE TABLE `sendSound` (
+  `id` int(100) AUTO_INCREMENT PRIMARY KEY,
+  `nom` varchar(100) NOT NULL,
+  `numero` varchar(100) NOT NULL,
+  `message` longtext NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+CREATE TABLE `receiveSound` (
+  `id` int(100) AUTO_INCREMENT PRIMARY KEY,
+  `nom` varchar(100) NOT NULL,
+  `numero` varchar(100) NOT NULL,
+  `message` longtext NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+
+
+<?php
+phpinfo()
+?>
+
+
+**************************INSTALLLL PHP5********************
+opkg update
+opkg install php5 php5-cgi
+
+nano /etc/config/uhttpd
+
+Ensure that you uncomment the extension interpreter line for PHP in the main section of the uHTTPd config file:
+
+list interpreter ".php=/usr/bin/php-cgi"
+
+/etc/init.d/uhttpd restart
+
+nano /www/phpinfo.php
+
+<?php
+// Show all information, defaults to INFO_ALL
+phpinfo();
+?>
+
+*****************************INSTALL MYSQL-SERVER****************************
+opkg update
+opkg install libpthread libncurses libreadline mysql-server
+
+sed -i 's,^datadir.*,datadir         = "/srv/mysql",g' /etc/my.cnf
+sed -i 's,^tmpdir.*,tmpdir          = "/tmp",g' /etc/my.cnf
+
+mkdir -p /srv/mysql
+mysql_install_db --force
+
+/etc/init.d/mysqld start
+/etc/init.d/mysqld enable
+
+mysqladmin -u root password 'new-password'
+To enable MySQL in PHP install
+
+opkg update
+opkg install php5-mod-mysql
+and load the mysql.so module in /etc/php.ini
+
+sed -i 's,;extension=mysql.so,extension=mysql.so,g' /etc/php.ini
+
+
+/////////////////////////////////**********************/////////////////////////////////
+To start mysqld at boot time you have to copy
+support-files/mysql.server to the right place for your system
+
+PLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !
+To do so, start the server, then issue the following commands:
+
+/usr/bin/mysqladmin -u root password 'new-password'
+/usr/bin/mysqladmin -u root -h dragino-181e89 password 'new-password'
+
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mainscreenactivity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="19" />
+        
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher_round"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.mainscreenactivity.MainScreenActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        
+        <activity
+            android:name = ".NewProductActivity"
+            android:label = "Envoi de Message" >
+        </activity>
+        <activity
+            android:name = ".Bloc"
+            android:label = "Bloc Monitor" >
+        </activity>
+        
+        <activity 
+            android:name = ".EditProductActivity"
+            android:label = "Edit Product">
+            
+        </activity>
+        
+        <activity 
+            android:name = ".AllProductsActivity"
+            android:label = "All Products">
+            
+        </activity>
+        <activity
+            android:name = ".Design"
+            android:label = "Bed Monitoring">
+
+
+        </activity>
+        <activity
+            android:name = ".MainActivity"
+            android:label = "Messages">
+
+        </activity>
+        <activity
+            android:name = ".Home"
+            android:label = "Bed Monitoring">
+
+        </activity>
+        <activity
+            android:name = ".Main"
+            android:label="@string/hello"
+            android:screenOrientation="portrait">
+        </activity>
+        <service android:name=".GpsService" />
+    </application>
+
+    
+</manifest>

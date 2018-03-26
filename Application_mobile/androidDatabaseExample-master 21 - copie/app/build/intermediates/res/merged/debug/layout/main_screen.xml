@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button android:id="@+id/btnViewProducts"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Consulter Messages"
+        android:layout_marginTop="25dip"/>
+    
+    <Button android:id="@+id/btnCreateProduct"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text = "Envoyer Message"
+        android:layout_marginTop="25dip"/>
+    <Button android:id="@+id/btnGeoloc"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text = "Geolocalise moi"
+    android:layout_marginTop="25dip"/>
+    <Button android:id="@+id/btnSound"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text = "Message Vocal"
+        android:layout_marginTop="25dip"/>
+
+</LinearLayout>

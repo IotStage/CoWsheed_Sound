@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/pattern.png",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/pattern.png"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/gray.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/gray.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/btn_gray_selector.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/btn_gray_selector.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/btn_back_gray.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/btn_back_gray.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/btn_back_gray_active.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/btn_back_gray_active.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/shadow.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/btn_back_green.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/btn_back_green.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/btn_back_green_active.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/btn_back_green_active.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/background_pattern.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/background_pattern.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/green.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/green.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/overflow.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/overflow.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/drawable/btn_green_selector.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/drawable/btn_green_selector.xml"
+    }
+]

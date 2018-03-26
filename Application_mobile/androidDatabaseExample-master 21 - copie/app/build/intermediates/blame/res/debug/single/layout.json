@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/edit_product.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/edit_product.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/main_screen.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/activity_main_screen.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/activity_main_screen.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/add_products.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/add_products.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/dlg_install_mwm.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/dlg_install_mwm.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/all_products.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/all_products.xml"
+    },
+    {
+        "merged": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/layout/main.xml"
+    }
+]

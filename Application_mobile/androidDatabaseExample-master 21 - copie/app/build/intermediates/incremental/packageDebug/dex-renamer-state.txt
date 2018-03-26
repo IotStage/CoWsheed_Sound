@@ -1,0 +1,7 @@
+#Mon Mar 12 18:19:37 GMT 2018
+base.0=/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51a86cd648333dc3e86e5fdc839366c3987996b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_150ccba7d700fc4d1a309036b256f13a88000b70/classes.dex
+base.1=/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_150ccba7d700fc4d1a309036b256f13a88000b70
+file.0=/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51a86cd648333dc3e86e5fdc839366c3987996b1/classes.dex

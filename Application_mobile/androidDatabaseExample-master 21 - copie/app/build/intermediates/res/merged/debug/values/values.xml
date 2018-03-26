@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Hopital">
+        <item>Dantec</item>
+        <item>Principal</item>
+        <item>Abass Ndao</item>
+        <item>Albert Royer</item>
+        <item>Fann</item>
+        <item>IHS</item>
+        <item>Phillipe_Senghor</item>
+        <item>Nabil_Choucair</item>
+        <item>Gaspar_Camara</item>
+        <item>PMI_Medina</item>
+        <item>Ngor</item>
+        <item>Ouakam</item>
+        <item>Anette</item>
+        <item>Camberene</item>
+        <item>Dabakh</item>
+        <item>Samu_Municipal</item>
+        <item>Grand_Dakar</item>
+        <item>Liberte6</item>
+        <item>Maristes</item>
+        <item>HLM</item>
+        <item>Hann_sur_mer</item>
+        <item>Plateau</item>
+        <item>Colobane</item>
+    </string-array>
+    <string-array name="Hopital_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>51</item>
+        <item>52</item>
+    </string-array>
+    <string-array name="Service">
+        <item>Medecine</item>
+        <item>Chirurgie</item>
+        <item>Gynecologie</item>
+        <item>Pediatrie</item>
+    </string-array>
+    <string-array name="Service_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="bloc_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="etat">
+        <item>libre</item>
+        <item>Occupée</item>
+    </string-array>
+    <string-array name="etat_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="nombre_lit">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="nombrelit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="num_bloc">
+        <item>Bloc_1</item>
+        <item>Bloc_2</item>
+        <item>Bloc_3</item>
+    </string-array>
+    <string-array name="num_salle">
+        <item>Salle_1</item>
+        <item>Salle_2</item>
+        <item>Salle_3</item>
+    </string-array>
+    <string-array name="salle_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Bloc">Choix Bloc</string>
+    <string name="Hopital_choix">Structure Sanitaire</string>
+    <string name="Salle">Choix Salle</string>
+    <string name="Service_choix">Service d\'urgence</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CowShed</string>
+    <string name="button_download">download et Ecouter Son</string>
+    <string name="button_play">Ecouter enregistrement</string>
+    <string name="button_record">start record</string>
+    <string name="button_record_stop">Arreter enregistrement</string>
+    <string name="button_upload">Upload !</string>
+    <string name="down_pro">Download MAPS.ME</string>
+    <string name="edittext_api">http://192.168.1.108:8091/upload</string>
+    <string name="etat_bloc">Etat du bloc</string>
+    <string name="hello">Voice Record</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lit">Disponibilités</string>
+    <string name="mwm_should_be_installed">Offline maps are required to proceed. We have partnered with MAPS.ME to provide you with offline maps of the entire world.\nTo continue please download the app:</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="url_pro">http://maps.me/get</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+    <style name="promoButton" parent="android:Widget.Button">
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

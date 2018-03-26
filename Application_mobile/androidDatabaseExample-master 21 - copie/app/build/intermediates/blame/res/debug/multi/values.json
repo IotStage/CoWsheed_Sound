@@ -1,0 +1,473 @@
+[
+    {
+        "outputFile": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 26,
+                    "endColumn": 19,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endLine": 51,
+                    "endColumn": 19,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endLine": 63,
+                    "endColumn": 19,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endLine": 68,
+                    "endColumn": 19,
+                    "endOffset": 1872
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 1877,
+                    "endLine": 72,
+                    "endColumn": 19,
+                    "endOffset": 1979
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 1984,
+                    "endLine": 76,
+                    "endColumn": 19,
+                    "endOffset": 2083
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2088,
+                    "endLine": 89,
+                    "endColumn": 19,
+                    "endOffset": 2394
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2399,
+                    "endLine": 102,
+                    "endColumn": 19,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endLine": 107,
+                    "endColumn": 19,
+                    "endOffset": 2850
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 2855,
+                    "endLine": 112,
+                    "endColumn": 19,
+                    "endOffset": 2993
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 2998,
+                    "endLine": 117,
+                    "endColumn": 19,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endColumn": 57,
+                    "endOffset": 3179
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3184,
+                    "endColumn": 55,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 43,
+                    "endOffset": 3279
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3284,
+                    "endColumn": 61,
+                    "endOffset": 3341
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 3346,
+                    "endColumn": 45,
+                    "endOffset": 3387
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 3392,
+                    "endColumn": 60,
+                    "endOffset": 3448
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 3453,
+                    "endColumn": 52,
+                    "endOffset": 3501
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 3506,
+                    "endColumn": 44,
+                    "endOffset": 3546
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 3551,
+                    "endColumn": 67,
+                    "endOffset": 3614
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 3619,
+                    "endColumn": 62,
+                    "endOffset": 3677
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 3682,
+                    "endColumn": 54,
+                    "endOffset": 3732
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 3737,
+                    "endColumn": 69,
+                    "endOffset": 3802
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 3807,
+                    "endColumn": 50,
+                    "endOffset": 3853
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 3858,
+                    "endColumn": 53,
+                    "endOffset": 3907
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 3912,
+                    "endColumn": 73,
+                    "endOffset": 3981
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 3986,
+                    "endColumn": 50,
+                    "endOffset": 4032
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4037,
+                    "endColumn": 46,
+                    "endOffset": 4079
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4084,
+                    "endColumn": 52,
+                    "endOffset": 4132
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4137,
+                    "endColumn": 46,
+                    "endOffset": 4179
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4184,
+                    "endColumn": 212,
+                    "endOffset": 4392
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4397,
+                    "endColumn": 55,
+                    "endOffset": 4448
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4453,
+                    "endColumn": 54,
+                    "endOffset": 4503
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4508,
+                    "endLine": 142,
+                    "endColumn": 12,
+                    "endOffset": 4586
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4591,
+                    "endLine": 144,
+                    "endColumn": 12,
+                    "endOffset": 4649
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4654,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 5009
+                },
+                "from": {
+                    "file": "/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Robert/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/Robert/Downloads/androidDatabaseExample-master 21/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_e450875f626b95cac757e3e285d92d66c487b810.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51a86cd648333dc3e86e5fdc839366c3987996b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43657bc14b0d16274f9894b75c11a7b972872cf1">
+        <dex dex="/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_150ccba7d700fc4d1a309036b256f13a88000b70/classes.dex" />
+    </item>
+
+</items>

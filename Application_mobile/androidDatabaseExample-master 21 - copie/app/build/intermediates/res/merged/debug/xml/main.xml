@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is /res/xml/mypreferences.xml -->
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="flight_option_preference"
+    android:title="Bed Monitor"
+    android:summary="Pref Som">
+
+    <ListPreference
+        android:key="Hopital"
+        android:title="@string/Hopital_choix"
+        android:entries="@array/Hopital"
+        android:entryValues="@array/Hopital_values"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:defaultValue="-1" />
+    <ListPreference
+        android:defaultValue="-1"
+        android:entries="@array/Service"
+        android:entryValues="@array/Service_values"
+        android:key="Service"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/Service_choix" />
+    <ListPreference
+        android:defaultValue="-1"
+        android:entries="@array/nombre_lit"
+        android:entryValues="@array/nombrelit_values"
+        android:key="Lit"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/lit" />
+
+    <Preference android:title="Appuyez pour confirmer"
+        android:key="button"
+        android:summary=""/>
+</PreferenceScreen>

@@ -1,0 +1,4 @@
+#Wed May 10 13:22:15 GMT 2017
+base.0=/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_e450875f626b95cac757e3e285d92d66c487b810
+renamed.0=classes.dex
+file.0=/Users/Robert/Downloads/androidDatabaseExample-master 21 - copie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_e450875f626b95cac757e3e285d92d66c487b810/classes.dex
