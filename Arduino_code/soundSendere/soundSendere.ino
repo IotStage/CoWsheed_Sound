@@ -32,9 +32,8 @@ void loop() {
 Process recupdata;
   //recupdata.begin("pwd");
   //recupdata.addParameter("/root/script.sh");
-  //recupdata.addParameter(">temp.txt");
   //recupdata.run();
-  recupdata.runShellCommand("python /root/script.sh");
+  recupdata.runShellCommand("ls -la /root");
   i=0;
   text="";
   while (recupdata.available()) {
@@ -45,9 +44,9 @@ Process recupdata;
     //i++;
   }
   Console.println(text);
-  //char buff[text.length()+1];
-  //text.toCharArray(buff, text.length()+1);
-  //sx1276.sendPacketTimeout(2, buff);
+  char buff[text.length()+1];
+  text.toCharArray(buff, text.length()+1);
+  sx1276.sendPacketTimeout(2, buff);
 
 //    Console.print(message1);
 //    if(message1[0]=='0'){ // Si il n'ya rien a envoyer de nouveau
