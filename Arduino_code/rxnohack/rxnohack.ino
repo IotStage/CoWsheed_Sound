@@ -67,7 +67,7 @@ void loop(void)
   
   e = sx1276.receivePacketTimeout(10000);
   if(!e){
-  Serial.print(("Receive packet timeout, state "));
+  Serial.print(sx1276.getPacketRecu());
   Serial.println(e, DEC);
   }else
   {
